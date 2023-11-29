@@ -1,0 +1,13 @@
+ul a{
+  list-style: none;
+  text-decoration: none;
+  margin: 5px;
+  font-weight: bold;
+   font-size: 20px;
+ }
+.active{
+  color: gray;
+}
+span{
+  margin: 4px;
+}
